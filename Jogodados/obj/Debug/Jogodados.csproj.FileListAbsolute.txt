@@ -1,0 +1,8 @@
+C:\Users\thiag\Desktop\Projetos\Jogodados\Jogodados\bin\Debug\Jogodados.exe.config
+C:\Users\thiag\Desktop\Projetos\Jogodados\Jogodados\bin\Debug\Jogodados.exe
+C:\Users\thiag\Desktop\Projetos\Jogodados\Jogodados\bin\Debug\Jogodados.pdb
+C:\Users\thiag\Desktop\Projetos\Jogodados\Jogodados\obj\Debug\Jogodados.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Projetos\Jogodados\Jogodados\obj\Debug\Jogodados.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\Desktop\Projetos\Jogodados\Jogodados\obj\Debug\Jogodados.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Projetos\Jogodados\Jogodados\obj\Debug\Jogodados.exe
+C:\Users\thiag\Desktop\Projetos\Jogodados\Jogodados\obj\Debug\Jogodados.pdb
